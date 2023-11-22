@@ -1,0 +1,131 @@
+Days_for_shipment_scheduled,Days_for_shipping_real,Delivery_Status,Shipping_Mode,Market
+0,0,Shipping canceled,Same Day,LATAM
+0,0,Shipping on time,Same Day,Africa
+0,0,Shipping canceled,Same Day,Africa
+0,0,Shipping canceled,Same Day,Pacific Asia
+0,0,Shipping canceled,Same Day,Europe
+0,0,Shipping canceled,Same Day,USCA
+0,0,Shipping on time,Same Day,USCA
+0,1,Shipping canceled,Same Day,LATAM
+0,1,Late delivery,Same Day,Pacific Asia
+0,1,Late delivery,Same Day,LATAM
+0,0,Shipping on time,Same Day,Europe
+0,1,Shipping canceled,Same Day,Africa
+0,1,Late delivery,Same Day,USCA
+1,2,Late delivery,First Class,Europe
+2,2,Shipping canceled,Second Class,USCA
+1,2,Late delivery,First Class,USCA
+0,1,Late delivery,Same Day,Africa
+0,1,Shipping canceled,Same Day,Europe
+2,2,Shipping on time,Second Class,Africa
+1,2,Late delivery,First Class,LATAM
+0,1,Late delivery,Same Day,Europe
+1,2,Late delivery,First Class,Africa
+1,2,Shipping canceled,First Class,Africa
+0,1,Shipping canceled,Same Day,Pacific Asia
+0,0,Shipping on time,Same Day,LATAM
+2,2,Shipping on time,Second Class,LATAM
+2,2,Shipping canceled,Second Class,LATAM
+1,2,Late delivery,First Class,Pacific Asia
+0,0,Shipping on time,Same Day,Pacific Asia
+2,3,Shipping canceled,Second Class,Europe
+2,3,Late delivery,Second Class,Africa
+2,4,Shipping canceled,Second Class,Africa
+0,1,Shipping canceled,Same Day,USCA
+1,2,Shipping canceled,First Class,Pacific Asia
+2,2,Shipping canceled,Second Class,Pacific Asia
+2,3,Late delivery,Second Class,Europe
+2,2,Shipping canceled,Second Class,Africa
+1,2,Shipping canceled,First Class,LATAM
+2,2,Shipping canceled,Second Class,Europe
+2,3,Late delivery,Second Class,Pacific Asia
+2,3,Late delivery,Second Class,USCA
+2,4,Shipping canceled,Second Class,Pacific Asia
+1,2,Shipping canceled,First Class,USCA
+2,3,Shipping canceled,Second Class,USCA
+2,2,Shipping on time,Second Class,Europe
+2,3,Shipping canceled,Second Class,Africa
+2,3,Shipping canceled,Second Class,LATAM
+2,4,Shipping canceled,Second Class,Europe
+2,2,Shipping on time,Second Class,USCA
+1,2,Shipping canceled,First Class,Europe
+2,4,Late delivery,Second Class,Europe
+2,5,Shipping canceled,Second Class,USCA
+2,5,Late delivery,Second Class,Pacific Asia
+2,6,Late delivery,Second Class,Europe
+2,4,Late delivery,Second Class,Africa
+2,5,Shipping canceled,Second Class,LATAM
+2,3,Shipping canceled,Second Class,Pacific Asia
+2,3,Late delivery,Second Class,LATAM
+2,4,Late delivery,Second Class,LATAM
+2,4,Shipping canceled,Second Class,LATAM
+2,2,Shipping on time,Second Class,Pacific Asia
+2,5,Shipping canceled,Second Class,Europe
+2,5,Late delivery,Second Class,Africa
+2,6,Late delivery,Second Class,LATAM
+4,2,Advance shipping,Standard Class,Europe
+4,2,Advance shipping,Standard Class,LATAM
+2,4,Late delivery,Second Class,Pacific Asia
+2,4,Late delivery,Second Class,USCA
+4,2,Shipping canceled,Standard Class,Africa
+2,5,Late delivery,Second Class,USCA
+2,4,Shipping canceled,Second Class,USCA
+2,6,Shipping canceled,Second Class,Africa
+2,6,Shipping canceled,Second Class,Europe
+2,6,Late delivery,Second Class,USCA
+2,6,Shipping canceled,Second Class,USCA
+2,5,Late delivery,Second Class,Europe
+2,5,Late delivery,Second Class,LATAM
+4,2,Advance shipping,Standard Class,Pacific Asia
+2,5,Shipping canceled,Second Class,Africa
+4,3,Advance shipping,Standard Class,Europe
+2,6,Shipping canceled,Second Class,LATAM
+4,3,Advance shipping,Standard Class,Africa
+4,2,Shipping canceled,Standard Class,USCA
+4,3,Advance shipping,Standard Class,LATAM
+4,3,Advance shipping,Standard Class,Pacific Asia
+4,2,Advance shipping,Standard Class,USCA
+4,4,Shipping canceled,Standard Class,Europe
+4,4,Shipping canceled,Standard Class,Pacific Asia
+2,5,Shipping canceled,Second Class,Pacific Asia
+4,2,Advance shipping,Standard Class,Africa
+4,3,Advance shipping,Standard Class,USCA
+2,6,Late delivery,Second Class,Africa
+2,6,Late delivery,Second Class,Pacific Asia
+4,3,Shipping canceled,Standard Class,Africa
+4,3,Shipping canceled,Standard Class,Europe
+2,6,Shipping canceled,Second Class,Pacific Asia
+4,5,Late delivery,Standard Class,Africa
+4,3,Shipping canceled,Standard Class,Pacific Asia
+4,4,Shipping on time,Standard Class,Africa
+4,4,Shipping on time,Standard Class,Europe
+4,5,Late delivery,Standard Class,Europe
+4,2,Shipping canceled,Standard Class,LATAM
+4,5,Shipping canceled,Standard Class,Europe
+4,2,Shipping canceled,Standard Class,Europe
+4,5,Shipping canceled,Standard Class,LATAM
+4,4,Shipping on time,Standard Class,Pacific Asia
+4,4,Shipping on time,Standard Class,LATAM
+4,3,Shipping canceled,Standard Class,LATAM
+4,5,Shipping canceled,Standard Class,USCA
+4,5,Late delivery,Standard Class,USCA
+4,5,Shipping canceled,Standard Class,Africa
+4,4,Shipping canceled,Standard Class,LATAM
+4,6,Shipping canceled,Standard Class,Africa
+4,6,Late delivery,Standard Class,Pacific Asia
+4,5,Late delivery,Standard Class,LATAM
+4,6,Shipping canceled,Standard Class,LATAM
+4,6,Late delivery,Standard Class,Africa
+4,6,Late delivery,Standard Class,LATAM
+4,6,Late delivery,Standard Class,Europe
+4,5,Shipping canceled,Standard Class,Pacific Asia
+4,4,Shipping canceled,Standard Class,Africa
+4,4,Shipping canceled,Standard Class,USCA
+4,6,Shipping canceled,Standard Class,USCA
+4,6,Late delivery,Standard Class,USCA
+4,2,Shipping canceled,Standard Class,Pacific Asia
+4,3,Shipping canceled,Standard Class,USCA
+4,6,Shipping canceled,Standard Class,Europe
+4,5,Late delivery,Standard Class,Pacific Asia
+4,6,Shipping canceled,Standard Class,Pacific Asia
+4,4,Shipping on time,Standard Class,USCA
